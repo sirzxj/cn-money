@@ -1,0 +1,14 @@
+{
+    "name": "cn-money",
+    "version": "1.0",
+    "desc": "",
+    "cover": "将阿拉伯数字转换成大写的人民币金额",
+    "tag":"money,chinese money",
+    "author": {
+        "name": "bofang",
+        "email": "bofang.zxj@taobao.com",
+        "page": ""
+    },
+    "type": "kissy-gallery",
+    "type-url": "http://gallery.kissyui.com/guide"
+}
